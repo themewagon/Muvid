@@ -1,4 +1,3 @@
-HTML Design
 # Muvid – Free Bootstrap Landing Page Template
 
 #### Preview
